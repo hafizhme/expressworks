@@ -1,0 +1,17 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Exercise for https://github.com/azat-co/expressworks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizhme/expressworks.git"
+  },
+  "keywords": [
+    "Expressjs"
+  ],
+  "author": "Satria H R Harsono",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jade": "^1.11.0"
+  }
+}
